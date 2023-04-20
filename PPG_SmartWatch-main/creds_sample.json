@@ -1,0 +1,9 @@
+{
+    "mongodb_creds": [
+        {
+            "uname": "Your User Name",
+            "password": "Your Password",
+            "MONGODB_URL" : "MondoDB Cloud URL"
+        }
+    ]
+}
